@@ -1,0 +1,18 @@
+timestamp_utc,question,answer,gold_answer,exact_match,fuzzy_ratio
+2025-10-02T14:41:20.908400,What is the main conclusion of the document?,Not stated in the document.,"The proposed Hybrid GRU-CNN classification strategy achieved 98.43% accuracy in training (false positive rate 0.17%) and 97.12% accuracy in testing (false positive rate 2.88%), outperforming state-of-the-art methods for insider attack detection",0,0.0074
+2025-10-02T14:41:24.628699,What methods were used in the study?,"The methods used in the study include:
+
+1. For the ""LMS Platform Using Generative AI"" study: 
+   - Integration of generative AI to create interactive, customized study materials.
+   - Utilization of Clerk for authentication, Inngest, PostgreSQL, and Drizzle for scalable database management.
+   - Gemini AI for accurate content generation.
+   - Next.js for a seamless frontend experience.
+   - A payment gateway for monetization.
+
+2. For the ""HYBRID GRU-CNN APPROACH FOR INSIDER ATTACK CLASSIFICATION IN CLOUD NETWORKS"" study: 
+   - A GRU-CNN (Gated Recurrent Unit-Convolutional Neural Network) hybrid ML approach.
+   - The Insider Threat Test Dataset developed by the Software Engineering Institute (SEI) at Carnegie Mellon University.
+   - The proposed Hybrid Classification Strategy (HCS).",A hybrid GRU (Gated Recurrent Unit) + CNN (Convolutional Neural Network) machine learning model for insider attack classification,0,0.1216
+2025-10-02T14:41:27.594518,Who are the authors of the paper?,"ERROR: `run` not supported when there is not exactly one output key. Got ['result', 'source_documents'].","Arul Selvam P (Assistant Professor, Dept. of CSE, Hindusthan College of Engineering and Technology, Coimbatore)",0,0.1953
+2025-10-02T14:41:28.406473,What dataset did the authors use for evaluation?,"ERROR: `run` not supported when there is not exactly one output key. Got ['result', 'source_documents'].",The Insider Threat Test Dataset developed by the Software Engineering Institute (SEI) at Carnegie Mellon University,0,0.2648
+2025-10-02T14:41:29.283210,List any limitations mentioned.,"ERROR: `run` not supported when there is not exactly one output key. Got ['result', 'source_documents'].","Existing research has not taken into account the insiders time-sequence-centric dynamic behavior, which limits effective detection with only static pattern-based methods",0,0.1825

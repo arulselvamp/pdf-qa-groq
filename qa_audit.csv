@@ -1,0 +1,18 @@
+timestamp_utc,question,answer,top_chunk_previews
+2025-10-02T14:41:20.908400,What is the main conclusion of the document?,Not stated in the document.,"Proceedings of 15th International Conference on Science and Innovative Engineering 2025  April 26th - 27th, 2025  Prince Dr.K.Vasudevan college of Engineering and Technology, India   Manipal University College Malaysia, Melaka, Malaysia           ISBN 978-81-983498-5-9                                ||| Proceedings of 15th International Conference on Science and Innovative Engineering 2025  April 26th - 27th, 2025  Prince Dr.K.Vasudevan college of Engineering and Technology, India   Manipal University College Malaysia, Melaka, Malaysia           ISBN 978-81-983498-5-9                               "
+2025-10-02T14:41:24.628699,What methods were used in the study?,"The methods used in the study include:
+
+1. For the ""LMS Platform Using Generative AI"" study: 
+   - Integration of generative AI to create interactive, customized study materials.
+   - Utilization of Clerk for authentication, Inngest, PostgreSQL, and Drizzle for scalable database management.
+   - Gemini AI for accurate content generation.
+   - Next.js for a seamless frontend experience.
+   - A payment gateway for monetization.
+
+2. For the ""HYBRID GRU-CNN APPROACH FOR INSIDER ATTACK CLASSIFICATION IN CLOUD NETWORKS"" study: 
+   - A GRU-CNN (Gated Recurrent Unit-Convolutional Neural Network) hybrid ML approach.
+   - The Insider Threat Test Dataset developed by the Software Engineering Institute (SEI) at Carnegie Mellon University.
+   - The proposed Hybrid Classification Strategy (HCS).","Proceedings of 15th International Conference on Science and Innovative Engineering 2025  April 26th - 27th, 2025  Prince Dr.K.Vasudevan college of Engineering and Technology, India   Manipal University College Malaysia, Melaka, Malaysia           ISBN 978-81-983498-5-9                                ||| Proceedings of 15th International Conference on Science and Innovative Engineering 2025  April 26th - 27th, 2025  Prince Dr.K.Vasudevan college of Engineering and Technology, India   Manipal University College Malaysia, Melaka, Malaysia           ISBN 978-81-983498-5-9                               "
+2025-10-02T14:41:27.594518,Who are the authors of the paper?,"ERROR: `run` not supported when there is not exactly one output key. Got ['result', 'source_documents'].",
+2025-10-02T14:41:28.406473,What dataset did the authors use for evaluation?,"ERROR: `run` not supported when there is not exactly one output key. Got ['result', 'source_documents'].",
+2025-10-02T14:41:29.283210,List any limitations mentioned.,"ERROR: `run` not supported when there is not exactly one output key. Got ['result', 'source_documents'].",

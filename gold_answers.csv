@@ -1,0 +1,7 @@
+question,gold_answer
+List any limitations mentioned.,"Existing research has not taken into account the insiders’ time-sequence-centric dynamic behavior, which limits effective detection with only static pattern-based methods"
+What dataset did the authors use for evaluation?,The Insider Threat Test Dataset developed by the Software Engineering Institute (SEI) at Carnegie Mellon University
+What is the main conclusion of the document?,"The proposed Hybrid GRU-CNN classification strategy achieved 98.43% accuracy in training (false positive rate 0.17%) and 97.12% accuracy in testing (false positive rate 2.88%), outperforming state-of-the-art methods for insider attack detection"
+What methods were used in the study?,A hybrid GRU (Gated Recurrent Unit) + CNN (Convolutional Neural Network) machine learning model for insider attack classification
+Who are the authors of the paper?,"Arul Selvam P (Assistant Professor, Dept. of CSE, Hindusthan College of Engineering and Technology, Coimbatore)"
+,
