@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+load_dotenv()  # this will read your .env file
+
 import streamlit as st
 import os, requests
 from langchain_community.document_loaders import PyPDFLoader
